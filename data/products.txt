@@ -1,0 +1,49 @@
+1. Product Name: Laptop
+   Description: A powerful laptop with a high-resolution display.
+   Price: $999.99
+   imageUrl: https://unsplash.com/photos/hpjSkU2UYSU
+
+2. Product Name: Smartphone
+   Description: The latest smartphone with a dual-camera setup.
+   Price: $699.99
+   imageUrl: https://unsplash.com/photos/0ej0jMwPFhQ
+
+3. Product Name: Headphones
+   Description: Over-ear headphones with noise-canceling technology.
+   Price: $149.99
+   imageUrl: https://unsplash.com/photos/PDX_a_82obo
+
+4. Product Name: Smartwatch
+   Description: A stylish smartwatch with fitness tracking features.
+   Price: $199.99
+   imageUrl: https://unsplash.com/photos/hbTKIbuMmBI
+
+5. Product Name: Camera
+   Description: DSLR camera with interchangeable lenses.
+   Price: $799.99
+   imageUrl: https://unsplash.com/photos/BB2G2cfdXKE
+
+6. Product Name: Gaming Console
+   Description: Next-gen gaming console for immersive gaming experiences.
+   Price: $499.99
+   imageUrl: https://unsplash.com/photos/v8XaVfyo41Q
+
+7. Product Name: Wireless Earbuds
+   Description: True wireless earbuds with long battery life.
+   Price: $129.99
+   imageUrl:https://unsplash.com/photos/K63lOA4Ijyk
+
+8. Product Name: 4K TV
+   Description: Ultra HD 4K television with a large screen.
+   Price: $999.99
+   imageUrl:https://unsplash.com/photos/vGtPZLEC9HE
+
+9. Product Name: Blender
+   Description: High-performance blender for smoothies and soups.
+   Price: $79.99
+   imageUrl:https://unsplash.com/photos/N-VAH2TDeXk
+
+10. Product Name: Coffee Maker
+    Description: Programmable coffee maker for brewing your favorite coffee.
+    Price: $49.99
+    imageUrl:https://unsplash.com/photos/AjcABUQ7WuA
