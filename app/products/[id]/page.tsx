@@ -28,7 +28,7 @@ export async function generateMetadata({
   const product = await getProduct(id);
 
   return {
-    title: product.name + " - Kodeum Store",
+    title: product.name + " - QuickCart",
     description: product.description,
     openGraph: {
       images: [{ url: product.imageUrl }],

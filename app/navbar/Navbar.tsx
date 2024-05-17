@@ -15,7 +15,7 @@ export default async function Navbar() {
       <div className="navbar m-auto max-w-7xl flex-col gap-2 sm:flex-row">
         <div className="flex-1">
           <Link href="/" className="btn-ghost btn text-xl normal-case">
-            Kodeum Store
+          QuickCart
           </Link>
         </div>
         <div className="flex-none gap-2">

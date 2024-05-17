@@ -1,34 +1,42 @@
-# Kodeum-Shop: Next.js 13 E-Commerce App with Google SSO JWT
+# QuickCart: Next.js 13 E-Commerce App with Google SSO JWT
 
-Welcome to Kodeum-Shop, a feature-rich E-commerce application built on the latest Next.js 13 framework. This project combines the power of App Router, TypeScript, seamless deployment strategies, TailwindCSS for stunning designs, Prisma for efficient database management, and DaisyUI to enhance the UI/UX experience.
+Welcome to QuickCart, a feature-rich E-commerce application built on the latest Next.js 13 framework. This project combines the power of App Router, TypeScript, seamless deployment strategies, TailwindCSS for stunning designs, Prisma for efficient database management, and DaisyUI to enhance the UI/UX experience.
 
-## Features:
+## Features
 
 ### 1. Next.js 13
+
 Leverage the cutting-edge features of Next.js 13, ensuring optimal performance, improved developer experience, and the latest advancements in the React ecosystem.
 
 ### 2. App Router
+
 Craft dynamic and fluid user experiences with Next.js App Router. Seamlessly transition between pages and enhance the overall navigation flow for your customers.
 
 ### 3. TypeScript
+
 Build robust and maintainable code with TypeScript, providing static typing to catch errors early, enabling a smoother development process.
 
 ### 4. Deployment
+
 Effortlessly deploy your E-commerce app with our deployment strategies. Choose from various options to suit your needs, ensuring a seamless transition from development to production.
 
 ### 5. TailwindCSS
+
 Create visually stunning and responsive designs with TailwindCSS. TailwindCSS empowers you to build a unique and engaging user interface for your online store.
 
 ### 6. Prisma
+
 Efficiently manage your database with Prisma, ensuring scalability, security, and ease of development. Prisma simplifies database operations, making data handling a breeze.
 
 ### 7. DaisyUI
+
 Enhance your UI components with DaisyUI, adding a touch of elegance to your E-commerce app. DaisyUI provides a collection of beautiful and customizable UI elements to elevate the overall user experience.
 
 ### 8. Google SSO JWT
+
 Implement secure and streamlined user authentication using Google Single Sign-On (SSO) with JSON Web Tokens (JWT). Simplify user onboarding and enhance account security for your customers.
 
-## Getting Started:
+## Getting Started
 
 1. Clone the repository.
 2. Install dependencies with `npm install`.
@@ -36,10 +44,7 @@ Implement secure and streamlined user authentication using Google Single Sign-On
 4. Set up Prisma for your database.
 5. Run the app locally using `npm run dev`.
 
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 
 To run the development server:
 

@@ -9,7 +9,7 @@ import { options } from "@/app/api/auth/[...nextauth]/options";
 import NotFoundPage from "@/app/not-found";
 
 export const metadata: Metadata = {
-  title: "Add Product - Kodeum Store",
+  title: "Add Product - QuickCart",
   description: "It's a Add Product Page",
 };
 

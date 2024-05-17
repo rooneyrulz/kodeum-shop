@@ -7,7 +7,7 @@ import { options } from "../api/auth/[...nextauth]/options";
 import NotFoundPage from "../not-found";
 
 export const metadata = {
-  title: "Your Cart - Kodeum Store",
+  title: "Your Cart - QuickCart",
 };
 
 export default async function CartPage() {
